@@ -1,4 +1,3 @@
-
 // função para calcular o saldo de vitórias // 
 function calcularSaldo(vitorias, derrotas){
         let saldoVitorias = vitorias - derrotas;
